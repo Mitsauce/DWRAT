@@ -3,6 +3,9 @@
 Created on Tue Feb 11 12:29:08 2020
 
 @author: dpedroja
+
+#Collab: Mit
+
 """
 ################################# REQURIES NUMPY VERSION 18.1.1 #################################### 
 
